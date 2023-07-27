@@ -95,5 +95,5 @@ int main()
     if(Solver())
         Printer();
     else
-        cout<<"No solution"<<endl;
+        cout<<"No solution :( "<<endl;
 }
